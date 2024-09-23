@@ -1,8 +1,8 @@
 # Amazon Echo Studio Reviews - Web Scraping and Data Analysis
 
-## Project Overview
+## Overview
 
-This project focuses on extracting, cleaning, and analyzing Amazon Echo Studio product reviews to uncover customer sentiment, common product features, and feedback patterns. By using web scraping tools and natural language processing techniques, the project aims to provide actionable insights for product development and marketing strategies.
+This project focuses on extracting, cleaning, and analyzing Amazon Echo Studio product reviews to uncover customer sentiment and feedback patterns. By using web scraping tools and natural language processing techniques, the project aims to provide actionable insights for product development and marketing strategies.
 
 ## Tools and Technologies
 - **Python**
