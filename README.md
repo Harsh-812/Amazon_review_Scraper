@@ -21,14 +21,6 @@ This project focuses on extracting, cleaning, and analyzing Amazon Echo Studio p
 - **Visualization**: Generated visualizations like word clouds, bar charts, and sentiment distributions to highlight key feedback patterns.
 - **Feedback Categorization**: Converted review sentiment into binary feedback (positive/negative) for further analysis and visualization.
 
-## Project Workflow
-1. **Web Scraping**: Used BeautifulSoup to scrape product review data from Amazon.
-2. **Data Preprocessing**: Cleaned and tokenized the review text, removing unnecessary characters and normalizing the data for analysis.
-3. **Sentiment Analysis**: Applied TextBlob to calculate the polarity of each review and categorize it as positive, neutral, or negative.
-4. **POS Tagging**: Leveraged NLTK to perform part-of-speech tagging, identifying key nouns, adjectives, and verbs that frequently appear in customer reviews.
-5. **Data Visualization**: Created word clouds and other visualizations to present key insights.
-6. **Documentation**: Presented findings in a well-documented format, including visual insights to aid stakeholders in understanding customer feedback trends.
-
 ## Key Findings
 - **Sentiment Breakdown**: A majority of the reviews were classified as positive, reflecting overall customer satisfaction with Amazon Echo Studio.
 - **Common Themes**: Nouns such as "sound," "speaker," and "Alexa" were most frequently mentioned in positive feedback, while negative feedback focused on "connectivity" and "issues" with WiFi and pairing.
